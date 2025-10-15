@@ -6,4 +6,4 @@
 go env -w CGO_ENABLED=1
 go env -w GOOS=linux  
 go env -w GOARCH=amd64
-go build -o ./bin/go-sample-linux
+go build -o ./go-sample-linux
